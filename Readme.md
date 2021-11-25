@@ -1,4 +1,4 @@
-# ⚡ Make Crypto Mobile 📱 Hackathon ⚡
+# ⚡ Go Africa Mobile Platform - Celo Integration 📱 Hackathon ⚡
 
 Make Crypto Mobile Hackathon is a 4-week hackathon, focused on growing Mobile DeFi (#MoFi), NFT's and developer tooling on the Celo platform.
 
@@ -130,8 +130,3 @@ View the [Developer Code Examples page](https://docs.celo.org/developer-guide/st
   -  [celowallet.app](https://celowallet.app/)
   -  [Celo Terminal](https://github.com/zviadm/celoterminal/)
 
-
-#### Community
-
--   Join our [Discord](https://chat.celo.org/)
--   [Discourse Forum](https://forum.celo.org/)
