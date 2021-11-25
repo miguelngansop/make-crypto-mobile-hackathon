@@ -1,7 +1,7 @@
 # ⚡ Go Africa Mobile Platform - Celo Integration 📱 Hackathon ⚡
 
 Make Crypto Mobile Hackathon is a 4-week hackathon, focused on growing Mobile DeFi (#MoFi), NFT's and developer tooling on the Celo platform.
-![alt text](http://learning.go-africa.io/wp-content/uploads/2021/11/How-it-works2.png)
+!(http://learning.go-africa.io/wp-content/uploads/2021/11/How-it-works2.png)
 
 
 ## Hackathon Tracks: 
