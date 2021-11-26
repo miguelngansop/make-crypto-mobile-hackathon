@@ -43,7 +43,7 @@ Make Crypto Mobile Hackathon is a 4-week hackathon, focused on growing Mobile De
  2. Create project branch
  3. Make your changes within new branch!
 	 - Copy **Project_Name** folder & rename with your project name
-	 - Review [DevPost rules]!(http://learning.go-africa.io/wp-content/uploads/2021/11/How-it-works2.png) to include requirements with your submission
+	 - Review ![DevPost rules](http://learning.go-africa.io/wp-content/uploads/2021/11/How-it-works2.png) to include requirements with your submission
 	 - Modify project details within your project folder **Readme.md**
 		 - Name
 		 - Description
